@@ -173,6 +173,10 @@ ul li:hover {
   color: yellow;
 }
 
+ul li:active {
+  color: red;
+}
+
 h1 {
   position: absolute;
   top: 30px;
